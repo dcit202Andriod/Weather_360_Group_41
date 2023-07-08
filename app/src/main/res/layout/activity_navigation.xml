@@ -52,13 +52,13 @@
         android:id="@+id/nextButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="15dp"
-        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="25dp"
         android:background="#00000000"
         android:fontFamily="@font/poppins_semibold"
         android:text="Next"
         android:textColor="@blue"
-        android:textSize="16sp"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 

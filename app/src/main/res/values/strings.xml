@@ -3,7 +3,7 @@
     <string name="search" translatable="false">Search</string>
     <string name="description_weather" translatable="false">Take an umbrella today</string>
     <string name="temperature" translatable="false">26º</string>
-    <string name="cityname" translatable="false">Accra</string>
+    <string name="cityname" translatable="false">Dansoman</string>
     <string name="alt_weather_ic" translatable="false" />
     <string name="degree_symbol" translatable="false">°</string>
 

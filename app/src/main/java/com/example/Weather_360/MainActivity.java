@@ -78,13 +78,12 @@ public class MainActivity extends AppCompatActivity {
                     JSONObject weatherObj = weather.getJSONObject(0);
                     String desc = weatherObj.getString("description");
                     weatherDescription.setText(desc);
-
                     //For City name
-                    JSONArray cname = response.getJSONArray("name");
+                    //JSONArray cname = response.getJSONArray("name");
                     String name = (String) response.getString("name");
                     cityNameView.setText(name);
 
-                  // Icon View
+                    // Icon View
                     String iconCode = weatherObj.getString("icon");
                     switch (iconCode) {
                         // clear sky
@@ -105,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
                             weatherIconView.setImageResource(R.drawable.scattered_clouds);
                             break;
 
-                        // broken clouds in the sky
+                        // broken clouds
                         case "04d":
                         case "04n":
                             weatherIconView.setImageResource(R.drawable.broken_cloud);

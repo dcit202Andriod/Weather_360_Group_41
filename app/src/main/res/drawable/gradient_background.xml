@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><!-- drawable/iphone_13_p.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="458dp"
+    android:height="713dp"
+    android:viewportWidth="458"
+    android:viewportHeight="713">
+    <path
+        android:fillColor="#111111"
+        android:pathData="M0 0H458V713H0V0Z" />
+    <group android:translateX="2">
+        <path android:pathData="M0 0H456V713H0V0Z">
+            <aapt:attr name="android:fillColor">
+                <gradient
+                    android:endX="228"
+                    android:endY="0.000000424593"
+                    android:startX="228"
+                    android:startY="713"
+                    android:tileMode="clamp">
+                    <item
+                        android:color="#40111111"
+                        android:offset="0.413157" />
+                    <item
+                        android:color="#40A0A0A0"
+                        android:offset="1" />
+                </gradient>
+            </aapt:attr>
+        </path>
+    </group>
+</vector>

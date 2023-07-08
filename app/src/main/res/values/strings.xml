@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">Weather 360</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="description_weather" translatable="false">Take an umbrella today</string>
+    <string name="temperature" translatable="false">26º</string>
+    <string name="cityname" translatable="false">Accra</string>
+    <string name="alt_weather_ic" translatable="false" />
+    <string name="degree_symbol" translatable="false">°</string>
+
+    <string name="screen1">Detailed Hourly Forecast</string>
+    <string name="screen2">Real-Time Weather Map</string>
+    <string name="screen3">Weather Around the World</string>
+    <string name="screen1desc">Get in - depth weather information</string>
+    <string name="screen2desc">Watch the progress of the precipitation to stay informed</string>
+    <string name="screen3desc">Add any location you want and swipe easily to change</string>
+    <string name="startDesc">Discover Accurate Weather Updates</string>
+
+
+</resources>

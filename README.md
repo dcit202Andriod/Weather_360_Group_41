@@ -12,3 +12,4 @@ Phinehas Freeman       - 10947025
 Janet Enyan            - 10990297
 Richard Owusu Ahwireng - 10958802
 Prudence Rashida Adam  - 10948938
+Agyekum Paul           - 10976491

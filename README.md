@@ -22,14 +22,18 @@ Roles and responsibilities
 FRONT-END DEVELOPERS
 • Agyekum Paulson
 • Enyan Janet
+
 BACK-END DEVELOPERS
 • Arthur Owen Apraku
 • Alordey Caroline
 DESIGNERS
+
 • Freeman Phinehas
 • Ahwireng Richard Owusu
 APP TESTERS
+
 Adam Rashida Prudence
-зааттт: Fiagbe Derrick Kwame
+Fiagbe Derrick Kwame
+
 DOCUMENTATION WRITER
 • Apreku Lily Eyram Princess.

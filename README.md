@@ -9,6 +9,7 @@ With our weather app repository on GitHub, we're bringing you the power to predi
 
 
 
+
 Group Members              - Student IDs
 Phinehas Freeman           - 10947025
 Janet Enyan                - 10990297
@@ -17,3 +18,33 @@ Prudence Rashida Adam      - 10948938
 Agyekum Paul               - 10976491
 Lily Eyram Apreku Princess - 10962171
  Nana  Kwame Owen Apraku   - 10983824
+Isaac Klutse               - 10970601
+Derrick Kwame Fiagbe       -10940924
+Caroline Alordey            -10950805
+
+Roles and responsibilities
+
+FRONT-END DEVELOPERS
+• Agyekum Paulson
+• Enyan Janet
+• Adam Prudence Rashida
+
+BACK-END DEVELOPERS
+• Arthur Owen Apraku
+• Alordey Caroline
+•Isaac Klutse
+
+DESIGNERS
+• Freeman Phinehas
+• Ahwireng Richard Owusu
+
+APP TESTER
+• Fiagbe Derrick Kwame
+
+DOCUMENTATION WRITER
+• Apreku Lily Eyram Princess.
+
+
+
+
+

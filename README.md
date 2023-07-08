@@ -11,10 +11,10 @@ With our weather app repository on GitHub, we're bringing you the power to predi
 
  
 
-Group Members          - Student IDs
-Phinehas Freeman       - 10947025
-Janet Enyan            - 10990297
-Richard Owusu Ahwireng - 10958802
-Prudence Rashida Adam  - 10948938
-Agyekum Paul           - 10976491
+Group Members              - Student IDs
+Phinehas Freeman           - 10947025
+Janet Enyan                - 10990297
+Richard Owusu Ahwireng     - 10958802
+Prudence Rashida Adam      - 10948938
+Agyekum Paul               - 10976491
 Lily Eyram Apreku Princess - 10962171

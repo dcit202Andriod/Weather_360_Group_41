@@ -78,8 +78,9 @@ public class MainActivity extends AppCompatActivity {
                     JSONObject weatherObj = weather.getJSONObject(0);
                     String desc = weatherObj.getString("description");
                     weatherDescription.setText(desc);
+
                     //For City name
-                    //JSONArray cname = response.getJSONArray("name");
+                    JSONArray cname = response.getJSONArray("name");
                     String name = (String) response.getString("name");
                     cityNameView.setText(name);
 

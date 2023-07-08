@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
                     String name = (String) response.getString("name");
                     cityNameView.setText(name);
 
-                    // Icon View
+                  // Icon View
                     String iconCode = weatherObj.getString("icon");
                     switch (iconCode) {
                         // clear sky

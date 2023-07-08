@@ -26,12 +26,13 @@ FRONT-END DEVELOPERS
 BACK-END DEVELOPERS
 • Arthur Owen Apraku
 • Alordey Caroline
-DESIGNERS
 
+
+DESIGNERS
 • Freeman Phinehas
 • Ahwireng Richard Owusu
-APP TESTERS
 
+APP TESTERS
 Adam Rashida Prudence
 Fiagbe Derrick Kwame
 

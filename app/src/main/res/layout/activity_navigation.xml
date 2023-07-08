@@ -13,7 +13,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="15dp"
-        android:background="@color/blue"
         android:drawableEnd="@drawable/baseline_skip_next_24"
         android:fontFamily="@font/poppins_semibold"
         android:padding="9dp"

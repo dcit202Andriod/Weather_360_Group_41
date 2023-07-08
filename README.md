@@ -17,3 +17,19 @@ Prudence Rashida Adam      - 10948938
 Agyekum Paul               - 10976491
 Lily Eyram Apreku Princess - 10962171
  Nana  Kwame Owen Apraku   - 10983824
+
+Roles and responsibilities
+FRONT-END DEVELOPERS
+• Agyekum Paulson
+• Enyan Janet
+BACK-END DEVELOPERS
+• Arthur Owen Apraku
+• Alordey Caroline
+DESIGNERS
+• Freeman Phinehas
+• Ahwireng Richard Owusu
+APP TESTERS
+Adam Rashida Prudence
+зааттт: Fiagbe Derrick Kwame
+DOCUMENTATION WRITER
+• Apreku Lily Eyram Princess.

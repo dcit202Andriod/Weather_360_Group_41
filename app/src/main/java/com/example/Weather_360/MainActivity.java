@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
                             weatherIconView.setImageResource(R.drawable.scattered_clouds);
                             break;
 
-                        // broken clouds
+                        // broken clouds in the sky
                         case "04d":
                         case "04n":
                             weatherIconView.setImageResource(R.drawable.broken_cloud);

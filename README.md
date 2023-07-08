@@ -20,7 +20,7 @@ Lily Eyram Apreku Princess - 10962171
  Nana  Kwame Owen Apraku   - 10983824
 Isaac Klutse               - 10970601
 Derrick Kwame Fiagbe       -10940924
-Caroline Alodey            -10950805
+Caroline Alordey            -10950805
 
 Roles and responsibilities
 
@@ -32,35 +32,19 @@ FRONT-END DEVELOPERS
 BACK-END DEVELOPERS
 • Arthur Owen Apraku
 • Alordey Caroline
+•Isaac Klutse
 
 DESIGNERS
 • Freeman Phinehas
 • Ahwireng Richard Owusu
 
-APP TESTERS
+APP TESTER
 • Fiagbe Derrick Kwame
 
 DOCUMENTATION WRITER
 • Apreku Lily Eyram Princess.
-Apraku   - 10983824
-
-Roles and responsibilities
-FRONT-END DEVELOPERS
-• Agyekum Paulson
-• Enyan Janet
-
-BACK-END DEVELOPERS
-• Arthur Owen Apraku
-• Alordey Caroline
 
 
-DESIGNERS
-• Freeman Phinehas
-• Ahwireng Richard Owusu
 
-APP TESTERS
 
-Fiagbe Derrick Kwame
 
-DOCUMENTATION WRITER
-• Apreku Lily Eyram Princess.
